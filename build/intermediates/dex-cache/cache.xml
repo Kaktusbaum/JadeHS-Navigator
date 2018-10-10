@@ -3,24 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Nimroht\.android\build-cache\d7c725644b7d5506a58fdd98b7661474257e87ed\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.3"
-        sha1="4a4d7907f73b799361eee90b9a8df20270d1cd9f">
-        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\classes_3350a62b700279eba837888c93a4f43187d75b4a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Nimroht\.android\build-cache\66a0f6d3a5789376b740a9c1e75d3d197f1617b9\output\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="28.0.3"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_a00b051c038b382e3955f6258b5bb30bc3aabcd4.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Nimroht\.android\build-cache\8617d2d9c603e75c6093619016541da64043e55e\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -36,6 +18,15 @@
         revision="28.0.3"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
         <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_0fc51889a1d68f2e031faf7ab7f53a4edfd40fd2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3e0cc2d178a397f7fa87b13a2681ee1c38a95d6c\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -54,6 +45,42 @@
         revision="28.0.3"
         sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
         <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\classes_e4b726a264f63e4be646b760df11e3f7d13c2584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nimroht\.android\build-cache\d7c725644b7d5506a58fdd98b7661474257e87ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4a4d7907f73b799361eee90b9a8df20270d1cd9f">
+        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\classes_3350a62b700279eba837888c93a4f43187d75b4a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\libs\jsoup-1.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.8.3_391bf1c67f385316e7450f91eb36ad858e01c4d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1ae2e6e4b12637ca90464d15cd8c4f499231eaca">
+        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ec7f30554c13b87c887365f0e5c9db7ac0273d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nimroht\.android\build-cache\66a0f6d3a5789376b740a9c1e75d3d197f1617b9\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_a00b051c038b382e3955f6258b5bb30bc3aabcd4.jar" />
     </item>
 
 </items>

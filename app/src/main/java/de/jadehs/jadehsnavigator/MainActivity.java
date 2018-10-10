@@ -218,7 +218,7 @@ public class MainActivity extends AppCompatActivity {
                     });
             final AlertDialog alert = builder.create();
             alert.getWindow().setType(WindowManager.LayoutParams.TYPE_SYSTEM_ALERT);
-            alert.show();
+            //alert.show();
         }else{
             // we already showed the reminder
             Log.wtf(TAG, "Setup is already done. Business as usual");
