@@ -193,7 +193,7 @@ public class MainActivity extends AppCompatActivity {
                     });
             final AlertDialog alert = builder.create();
             alert.getWindow().setType(WindowManager.LayoutParams.TYPE_SYSTEM_ALERT);
-            alert.show();
+            //alert.show();
         }else if(preferences.getBoolean("setupDone", false) && !preferences.getBoolean("feedbackReminderSeen", false)){
             // remind to leave feedback
             preferences.save("feedbackReminderSeen", true);

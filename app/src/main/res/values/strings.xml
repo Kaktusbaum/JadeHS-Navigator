@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="version">0.6.1</string>
+    <string name="version">0.6.2</string>
 
     <string name="app_name">JadeHS-Navigator</string>
 
@@ -104,8 +104,10 @@
 
     <string name="changelog_text">
         <![CDATA[
-            <b>v0.6.1</b><br /><br />
+            <b>v0.6.2</b><br /><br />
             <p>- Fehler im InfoSys behoben</p>
+            <p>- Alert-Fehler behoben</p>
+            <p>- GitHub-Link erneuert</p>
             <br><br>
             <b>v0.5.4</b><br /><br />
             <p>- Umbenennung des Fachbereichs Bauwesen und Geoinformation in Bauwesen, Geoinformation, Gesundheitstechnologie</p>
