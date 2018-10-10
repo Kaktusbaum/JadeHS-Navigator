@@ -103,8 +103,10 @@ public class InfoSys {
                     }
                     String fullDescription = description + detailDescription;
 
-                    String creator = item.select("dc|creator").first().text();
-                    String created = item.select("dc|date").first().text();
+                    //String creator = item.select("dc|creator").first().text();
+                    //String created = item.select("dc|date").first().text();
+                    String creator = "";
+                    String created = "";
 
                     SimpleDateFormat sdf2 = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssZ", Locale.US);
                     String dateStr = "";

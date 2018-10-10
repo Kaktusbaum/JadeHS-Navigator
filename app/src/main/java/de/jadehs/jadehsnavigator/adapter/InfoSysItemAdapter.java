@@ -104,7 +104,8 @@ public class InfoSysItemAdapter extends BaseAdapter{
             Log.wtf(TAG, "Err", ex);
         }
 
-        txtFooter.setText(this.infoSysItems.get(position).getCreator() + ": " + dateStr);
+        //txtFooter.setText(this.infoSysItems.get(position).getCreator() + ": " + dateStr);
+        txtFooter.setText("");
 
         return convertView; // Returns the created View
     }

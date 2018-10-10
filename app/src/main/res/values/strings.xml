@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="version">0.5.4</string>
+    <string name="version">0.6.1</string>
 
     <string name="app_name">JadeHS-Navigator</string>
 
@@ -46,6 +46,7 @@
          <![CDATA[
             Diese App ist ein studentisches <a href="http://github.com/Ekrow/JadeHS-Navigator">Open-Source-Projekt</a> und basiert auf einer Bachelorarbeit aus dem Fachbereich Ingenieurwissenschaften/Labor KNÜT.<br /><br />
             Die Gestaltung und Entwicklung der App wurde von René Spengel, Hendrik Kremer, Nicole Eilts und Evgenij Hajrow unter der Leitung von Rico Meiner übernommen.<br /><br />
+            InfoSys überarbeitet von Thormin Stiegler. Danke an Jodel-Person Nr.: 2.<br /><br />
             <h3>Impressum</h3>
             Jade Hochschule<br />
             Friedrich-Paffrath-Straße 101, 26389 Wilhelmshaven<br />
@@ -103,6 +104,9 @@
 
     <string name="changelog_text">
         <![CDATA[
+            <b>v0.6.1</b><br /><br />
+            <p>- Fehler im InfoSys behoben</p>
+            <br><br>
             <b>v0.5.4</b><br /><br />
             <p>- Umbenennung des Fachbereichs Bauwesen und Geoinformation in Bauwesen, Geoinformation, Gesundheitstechnologie</p>
             <p>- gm</p>
@@ -161,7 +165,7 @@
     <string name="reset_vplan_summary">Eigenen Vorlesungsplan zurücksetzen</string>
     <string name="summary_prefer_vplan">Zeige zuerst den eigenen Vorlesungsplan anstatt den allgemeinen Vorlesungsplan</string>
     <!--- InfoSys Strings -->
-    <string name="infosys_base_url">http://team.jade-hs.de/plan/index.php?action=rss&amp;fb=</string>
+    <string name="infosys_base_url">https://jade-hs.de/apps/infosys/index.php/index.php?action=rss&amp;fb=</string>
 
     <string name="infosys_url_MIT">%23SPLUS698158</string>
     <string name="infosys_url_I">%23SPLUS698157</string>

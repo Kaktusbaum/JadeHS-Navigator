@@ -43,7 +43,6 @@ public class SettingsActivity extends AppCompatActivity {
             onBackPressed();    //Call the back button's method
             return true;
         }
-
         return super.onOptionsItemSelected(item);
     }
 }

@@ -2,11 +2,58 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\re1015\Documents\GitHub\JadeHS-Navigator\app\build\intermediates\exploded-aar\it.sephiroth.android.library.imagezoom\imagezoom\2.2.4\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\Nimroht\.android\build-cache\d7c725644b7d5506a58fdd98b7661474257e87ed\output\jars\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="2df65d287bcfe491b42060d85a99217ad4e7c534">
-        <dex dex="C:\Users\re1015\Documents\GitHub\JadeHS-Navigator\app\build\intermediates\pre-dexed\release\classes-b5ab9e7a629ab5353bbc33623425035f317bb419.jar" />
+        optimize="true"
+        revision="28.0.3"
+        sha1="4a4d7907f73b799361eee90b9a8df20270d1cd9f">
+        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\classes_3350a62b700279eba837888c93a4f43187d75b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nimroht\.android\build-cache\66a0f6d3a5789376b740a9c1e75d3d197f1617b9\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_a00b051c038b382e3955f6258b5bb30bc3aabcd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nimroht\.android\build-cache\8617d2d9c603e75c6093619016541da64043e55e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\classes_d6377a70060338b0381366b1c44c3c113561592b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nimroht\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_0fc51889a1d68f2e031faf7ab7f53a4edfd40fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\libs\jsoup-1.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\jsoup-1.8.3_391bf1c67f385316e7450f91eb36ad858e01c4d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nimroht\.android\build-cache\66a0f6d3a5789376b740a9c1e75d3d197f1617b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Nimroht\Desktop\JadeHS-Navigator\JadeHS-Navigator\app\build\intermediates\pre-dexed\debug\classes_e4b726a264f63e4be646b760df11e3f7d13c2584.jar" />
     </item>
 
 </items>
